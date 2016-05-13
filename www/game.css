@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+canvas {
+  border: 1px solid red;
+  display: block;
+  margin: 0 auto;
+  background: rgb(126,192,238);
+}
